@@ -163,3 +163,5 @@ npm publish
 En el archivo package.json cambiar el atributo name a un nombre original, puesto que el profe ya subió su repositorio con el nombre de random-messages, por lo que no podemos tener nosotros un proyecto del mismo nombre en NPM 😉.
 
 Yo coloque random-messages-dbz y funciono.
+
+Repaso del curso
