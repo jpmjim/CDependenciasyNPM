@@ -165,3 +165,5 @@ En el archivo package.json cambiar el atributo name a un nombre original, puesto
 Yo coloque random-messages-dbz y funciono.
 
 Repaso del curso
+
+Nuevo curso https://platzi.com/cursos/npm/
